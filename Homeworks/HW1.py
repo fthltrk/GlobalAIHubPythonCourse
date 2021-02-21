@@ -1,5 +1,6 @@
 import random
 matrix= [[1,1,1],[1,1,1],[1,1,1]] 
+
 for i in range(3):
     for j in range(3):
         while True:
